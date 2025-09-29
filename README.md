@@ -9,11 +9,15 @@
 
 ## 🔧 Technologies & Tools
 
-| Category      | Tools & Languages |
-|---------------|------------------|
-| Languages     | Python · C · SQL |
-| Libraries     | pandas · NumPy · scikit-learn · Matplotlib |
-| Tools / IDEs  | Git · VS Code · Jupyter · Proteus |
+| Category        | Tools & Libraries |
+|----------------|------------------|
+| Languages       | Python · C · SQL |
+| Core ML/Data    | pandas · NumPy · SciPy · scikit-learn |
+| Deep Learning   | TensorFlow · PyTorch |
+| NLP             | NLTK · spaCy · Hugging Face Transformers |
+| Visualization   | Matplotlib · Seaborn |
+| Other ML Tools  | OpenCV · XGBoost · LightGBM |
+| Tools / IDEs    | Git · VS Code · Jupyter · Google Collab |
 
 ---
 
