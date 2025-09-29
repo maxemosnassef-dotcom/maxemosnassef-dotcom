@@ -1,46 +1,23 @@
-# Hi, I'm Maximos Naseef 👋
+Hi 👋 My name is Maxemos Naseef
+===============================
 
-🎓 **Electronics & Communication Engineering Undergraduate**  
-🤖 Passionate about **AI, Data Science, and Embedded Systems**  
-🛠 Currently exploring **Python, C, and Machine Learning workflows**  
-🎭 Outside tech, I enjoy **art, puzzles, writing, and storytelling**
+Machine Learning Engineer
+-------------------------
 
----
+AI and Machine Learning enthusiast with experience in building predictive models, NLP pipelines, and data-driven solutions. Proficient in Python, TensorFlow, PyTorch, and scikit-learn, with a strong foundation in statistics and algorithm optimization. Skilled at transforming complex datasets into actionable insights and delivering efficient, real-world AI solutions.
 
-## 🔧 Technologies & Tools
+* 🌍  I'm based in Alexandria, Egypt
+* ✉️  You can contact me at [maxemosnassef@gmail.com](mailto:maxemosnassef@gmail.com)
 
-| Category        | Tools & Libraries |
-|----------------|------------------|
-| Languages       | Python · C · SQL |
-| Core ML/Data    | pandas · NumPy · SciPy · scikit-learn |
-| Deep Learning   | TensorFlow · PyTorch |
-| NLP             | NLTK · spaCy · Hugging Face Transformers |
-| Visualization   | Matplotlib · Seaborn |
-| Other ML Tools  | OpenCV · XGBoost · LightGBM |
-| Tools / IDEs    | Git · VS Code · Jupyter · Google Collab |
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+</p>
 
----
-## 📌 Featured Projects
+### Socials
 
-### ✈️ [Flight Price Prediction](https://github.com/maxemosnassef-dotcom/flight-price-prediction)  
-- Predicting airline ticket prices using regression models with feature engineering and categorical encoding.  
-- Evaluated performance with **MAE, RMSE, R²** metrics.  
-- Practiced data preprocessing, model training, and performance optimization.  
+<p align="left"> <a href="https://www.github.com/maxemosnassef-dotcom" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/maximos-naseef/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/m.aximosnaseef" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
----
-
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxemosnassef-dotcom&show_icons=true&hide_border=true)
-
----
-
-## 💬 Quote
-
-> *“I turn complex problems into human stories — one idea at a time.”*
-
----
-
-⭐ *If you like what I build, feel free to follow or connect!*
+<a href="http://www.github.com/maxemosnassef-dotcom"><img src="https://github-readme-stats.vercel.app/api?username=maxemosnassef-dotcom&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="maxemosnassef-dotcom's GitHub stats" /></a>
