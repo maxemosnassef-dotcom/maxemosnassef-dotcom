@@ -20,12 +20,16 @@
 | Tools / IDEs    | Git · VS Code · Jupyter · Google Collab |
 
 ---
-
 ## 📌 Featured Projects
 
-*(Add your best repos here later — or let me know and I’ll format them for you!)*
+### ✈️ [Flight Price Prediction](https://github.com/maxemosnassef-dotcom/flight-price-prediction)  
+- Predicting airline ticket prices using regression models with feature engineering and categorical encoding.  
+- Evaluated performance with **MAE, RMSE, R²** metrics.  
+- Practiced data preprocessing, model training, and performance optimization.  
+
 
 ---
+
 
 ## 📊 GitHub Stats
 
