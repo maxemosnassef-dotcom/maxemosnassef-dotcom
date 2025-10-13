@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">AI and Machine Learning enthusiast with experience in building predictive models, NLP pipelines, and data-driven solutions. Proficient in Python, TensorFlow, PyTorch, and scikit-learn, with a strong foundation in statistics and algorithm optimization. Skilled at transforming complex datasets into actionable insights and delivering efficient, real-world AI solutions.<br><br>🌍 I'm based in Alexandria, Egypt<br>✉️ You can contact me at [maxemosnassef@gmail.com](mailto:maxemosnassef@gmail.com)</p>
+<p align="left">AI and Machine Learning enthusiast with experience in building predictive models, NLP pipelines, and data-driven solutions. Proficient in Python, TensorFlow, PyTorch, and scikit-learn, with a strong foundation in statistics and algorithm optimization. Skilled at transforming complex datasets into actionable insights and delivering efficient, real-world AI solutions.<br><br>🌍 I'm based in Alexandria, Egypt<br>✉️ You can contact me at [maxemosnassef@gmail.com]</p>
 
 ###
 
