@@ -1,73 +1,85 @@
-Using what you know about me, edit this github landing readme :
-
-<h1 align="left">Hi, Maximos Naseef is here!</h1>
-
-###
-
-<h2 align="left">Machine Learning Engineer</h2>
-
-###
-
-<p align="left">AI and Machine Learning enthusiast with experience in building predictive models, NLP pipelines, and data-driven solutions. Proficient in Python, TensorFlow, PyTorch, and scikit-learn, with a strong foundation in statistics and algorithm optimization. Skilled at transforming complex datasets into actionable insights and delivering efficient, real-world AI solutions.<br><br>🌍 I'm based in Alexandria, Egypt<br>✉️ You can contact me at [maxemosnassef@gmail.com]</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<div align="center">
+  <h1>👋 Hi, I'm Maximos Naseef</h1>
+  <p><b>Electronics & Communication Engineer | Machine Learning & Computer Vision Developer</b></p>
 </div>
 
-###
+---
+
+### 🚀 About Me
+
+I am an **Electronics and Communication Engineering** undergraduate student at Alexandria University, deeply passionate about bridging the gap between intelligent algorithms and hardware implementation. My core focus lies in training advanced **Computer Vision architectures (CNNs)**, building cross-platform mobile experiences, and designing embedded systems.
+
+* 🌍 Based in **Alexandria, Egypt**
+* 🧠 Specialized in **Deep Learning, Computer Vision, and Digital Systems**
+* 🛠️ Experienced in hardware-software co-design, prototyping, and mobile development
+* ✉️ Reach out at: **maxemosnassef@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<table>
+  <tr>
+    <td align="center" width="20%"><b>AI & Data Science</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Hardware & Embedded</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/VHDL%20%2F%20FPGA-FF6600?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Mobile App Dev</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Tools & Platforms</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/maximos-naseef/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="+201229545581" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/m.aximosnaseef" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="maxemosnassef@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/maximos-naseef/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://wa.me/201229545581" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+  </a>
+  <a href="mailto:maxemosnassef@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://www.facebook.com/m.aximosnaseef" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
 </div>
 
-###
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxemosnassef-dotcom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxemosnassef-dotcom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxemosnassef-dotcom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxemosnassef-dotcom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-###
