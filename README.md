@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Maximos Naseef</h1>
-  <p><b>Electronics & Communication Engineer | Machine Learning & Computer Vision Developer</b></p>
+  <p><b>Electronics & Communication Engineer | Mobile App Developer | Machine Learning Enthusiast | and trying to be much more </b></p>
 </div>
 
 ---
